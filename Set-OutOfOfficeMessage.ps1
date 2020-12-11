@@ -1,10 +1,8 @@
 ﻿<#	
 	.NOTES
 	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2020 v5.7.179
 	 Created on:   	7/26/2020 11:31 PM
 	 Created by:   	byron.zhao
-	 Organization: 	Lendmark Financial Services
 	 Filename:     	
 	===========================================================================
 	.DESCRIPTION
